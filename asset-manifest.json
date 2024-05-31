@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/mm33na.github.io/patashi/static/css/main.605a321f.css",
-    "main.js": "/mm33na.github.io/patashi/static/js/main.872727c5.js",
-    "static/js/356.90460495.chunk.js": "/mm33na.github.io/patashi/static/js/356.90460495.chunk.js",
-    "static/js/206.c7895ad0.chunk.js": "/mm33na.github.io/patashi/static/js/206.c7895ad0.chunk.js",
-    "static/media/mainimage.png": "/mm33na.github.io/patashi/static/media/mainimage.5258822005ccbae0fc5a.png",
-    "static/media/image.png": "/mm33na.github.io/patashi/static/media/image.2d838ef822bb094a2d80.png",
-    "static/media/slick.svg": "/mm33na.github.io/patashi/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/mm33na.github.io/patashi/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/mm33na.github.io/patashi/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/mm33na.github.io/patashi/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/mm33na.github.io/patashi/index.html"
+    "main.css": "/patashi/static/css/main.c34e0f79.css",
+    "main.js": "/patashi/static/js/main.580d2306.js",
+    "static/js/356.90460495.chunk.js": "/patashi/static/js/356.90460495.chunk.js",
+    "static/js/206.c7895ad0.chunk.js": "/patashi/static/js/206.c7895ad0.chunk.js",
+    "static/media/mainimage.png": "/patashi/static/media/mainimage.5258822005ccbae0fc5a.png",
+    "static/media/image.png": "/patashi/static/media/image.2d838ef822bb094a2d80.png",
+    "static/media/slick.svg": "/patashi/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/patashi/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/patashi/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/patashi/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/patashi/index.html"
   },
   "entrypoints": [
-    "static/css/main.605a321f.css",
-    "static/js/main.872727c5.js"
+    "static/css/main.c34e0f79.css",
+    "static/js/main.580d2306.js"
   ]
 }
