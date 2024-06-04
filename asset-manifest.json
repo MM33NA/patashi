@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/patashi/static/css/main.f887994f.css",
-    "main.js": "/patashi/static/js/main.3d61a1cd.js",
+    "main.css": "/patashi/static/css/main.1dfdcd77.css",
+    "main.js": "/patashi/static/js/main.6cd38438.js",
     "static/js/356.90460495.chunk.js": "/patashi/static/js/356.90460495.chunk.js",
     "static/js/206.c7895ad0.chunk.js": "/patashi/static/js/206.c7895ad0.chunk.js",
     "static/media/mainimage.png": "/patashi/static/media/mainimage.5258822005ccbae0fc5a.png",
@@ -15,14 +15,10 @@
     "static/media/imgdefault.png": "/patashi/static/media/imgdefault.864164e7a4ffbe7da138.png",
     "static/media/dress.jpeg": "/patashi/static/media/dress.6d9f21c1194a11452be9.jpeg",
     "static/media/casual.png": "/patashi/static/media/casual.c7458d52d8ec09474517.png",
-    "static/media/slick.svg": "/patashi/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/patashi/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/patashi/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/patashi/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/patashi/index.html"
   },
   "entrypoints": [
-    "static/css/main.f887994f.css",
-    "static/js/main.3d61a1cd.js"
+    "static/css/main.1dfdcd77.css",
+    "static/js/main.6cd38438.js"
   ]
 }
