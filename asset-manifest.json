@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/patashi/static/css/main.6d819252.css",
-    "main.js": "/patashi/static/js/main.47a4e31e.js",
+    "main.css": "/patashi/static/css/main.ef0f2c08.css",
+    "main.js": "/patashi/static/js/main.84ea4a2c.js",
     "static/js/356.90460495.chunk.js": "/patashi/static/js/356.90460495.chunk.js",
     "static/js/206.c7895ad0.chunk.js": "/patashi/static/js/206.c7895ad0.chunk.js",
+    "static/media/new.png": "/patashi/static/media/new.5c06d0f2e32bf182a5b7.png",
     "static/media/mainimage.png": "/patashi/static/media/mainimage.5258822005ccbae0fc5a.png",
     "static/media/shawls.png": "/patashi/static/media/shawls.23b945fba41b7b079933.png",
     "static/media/lehenga.png": "/patashi/static/media/lehenga.3b8bb3af152e01e3618f.png",
@@ -18,7 +19,7 @@
     "index.html": "/patashi/index.html"
   },
   "entrypoints": [
-    "static/css/main.6d819252.css",
-    "static/js/main.47a4e31e.js"
+    "static/css/main.ef0f2c08.css",
+    "static/js/main.84ea4a2c.js"
   ]
 }
